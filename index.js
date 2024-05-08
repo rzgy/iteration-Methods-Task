@@ -3,6 +3,7 @@
 const numbers = [10, 13, 20, 25, 38, 35, 40];
 
 /*****************************************************************
+ 
 Part 1: Filtering
 
 Write code to perform the following tasks using the filter method:
@@ -89,7 +90,6 @@ const logger = function (array) {};
  * The conversion is:
  *   C = (F - 32) * (5/9)
  ************************************/
-const toCelsius = function (temperatures) {};
 
 /**************************************
  * hottestDays(temperatures, threshhold)
